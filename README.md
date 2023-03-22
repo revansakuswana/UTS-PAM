@@ -1,4 +1,4 @@
-# Simple TodoList using React Native
+# Simple TodoList Menggunakan React Native
 
 Nama   : Revansa Helsa Kuswana
 NIM    : 120140096
